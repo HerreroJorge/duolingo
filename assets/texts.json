@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "en": "hellow",
+        "es": "hola"
+    },
+    {
+        "id": 1,
+        "en": "bye",
+        "es": "adios"
+    },
+    {
+        "id": 2,
+        "en": "good morning",
+        "es": "buenos dias"
+    },
+    {
+        "id": 3,
+        "en": "good afternoon",
+        "es": "buenas tardes"
+    }
+]

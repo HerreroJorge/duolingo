@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "path": "goodBye.mp3",
+        "es": "adios"
+    },
+    {
+        "id": 1,
+        "path": "goodMorning.mp3",
+        "es": "buenos dias"
+    }
+]

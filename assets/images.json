@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "path": "bicicleta.png",
+        "en": "bicycle"
+    },
+    {
+        "id": 1,
+        "path": "balon.jpg",
+        "en": "ball"
+    },
+    {
+        "id": 2,
+        "path": "sombrero.jpg",
+        "en": "hat"
+    },
+    {
+        "id": 3,
+        "path": "pared.jpg",
+        "en": "wall"
+    }
+]
